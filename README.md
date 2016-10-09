@@ -2,7 +2,8 @@
 The following repository contains factory calibration subroutines and scripts for calibrating
 the Wideband UHF Radio Card (WURC) from Skylark Wireless www.skylarkwireless.com/WURC
 
-All code is (c) Ryan E. Guerra 2012-2016.
+Code in /wl_wsd_cal is (c) Narendra Anand 2012-2016
+All other code is (c) Ryan E. Guerra 2012-2016.
 
 # Personal Legal Disclaimer & License
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
