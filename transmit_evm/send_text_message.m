@@ -26,8 +26,7 @@ function send_text_message(number, message)
 % =========================================================================
 % YOU NEED TO TYPE IN YOUR OWN EMAIL AND PASSWORDS:
 mail = 'matlab.daemon@gmail.com';    %Your GMail email address
-password = '0to60in3secs';          %Your GMail password
-%number = '315-857-7693';
+password = 'your_pw_here';          %Your GMail password
 % number = '979-574-6553';
 carrier = 'verizon';
 subject = 'MATLAB'
